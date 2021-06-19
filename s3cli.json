@@ -1,0 +1,14 @@
+{
+    "default": {
+        "region": "cn-east-1",
+        "endpoint": "s3-cn-east-1.qiniucs.com",
+        "access_key_id": "",
+        "secret_key_id": ""
+    },
+    "aliyun": {
+        "region": "oss-cn-hangzhou",
+        "endpoint": "oss-cn-hangzhou.aliyuncs.com",
+        "access_key_id": "",
+        "secret_key_id": ""
+    }
+}
